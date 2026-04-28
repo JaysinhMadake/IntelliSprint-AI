@@ -1,0 +1,8 @@
+Flask
+Flask-CORS
+Flask-Session
+mysql-connector-python
+scikit-learn
+pandas
+numpy
+werkzeug
